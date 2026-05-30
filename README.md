@@ -28,7 +28,7 @@ Power BI dashboard includes:
 
 ## Dataset
 Adult Census Income Dataset:
-https://archive.ics.uci.edu/dataset/2/adult
+https://www.kaggle.com/datasets/wenruliu/adult-income-dataset/data
 
 ## Skills Demonstrated
 - Machine learning
